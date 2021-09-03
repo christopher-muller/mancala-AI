@@ -2,6 +2,7 @@
  Basic mancala game with minmax algo AI (includes alpha beta pruning)
 
 How To Play/Configure:
+    
     Bottom row is the user while the top row is a minmax based AI with a current depth of 5
 
     To change which row is AI and which is user, comment and uncomment the respective code blocks labled in main.py
